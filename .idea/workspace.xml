@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4fe99a-ab37-4f2c-9539-de60f4325827" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hiworld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HiWorld.java" afterDir="false" />
+    <list default="true" id="9f4fe99a-ab37-4f2c-9539-de60f4325827" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HiWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HiWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575617374238</updated>
-      <workItem from="1575617377541" duration="146000" />
+      <workItem from="1575617377541" duration="1425000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1575617548021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575617548021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,13 +90,17 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="272" y="45" key="#Project_Structure/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575617379884" />
-    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1575617496391">
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1575619780521">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575617496391" />
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575619780521" />
     <state x="460" y="128" key="FileChooserDialogImpl" timestamp="1575617415445">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="460" y="128" key="FileChooserDialogImpl/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575617415445" />
+    <state x="272" y="108" key="Vcs.Push.Dialog.v2" timestamp="1575617588164">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="272" y="108" key="Vcs.Push.Dialog.v2/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575617588164" />
   </component>
 </project>
